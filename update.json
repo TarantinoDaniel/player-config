@@ -1,5 +1,7 @@
 {
-  "versionCode": 35,
-  "url": "https://vip.uptv.team/update/uptv15.0.apk",
-  "notes": "June Last Update"
+  "versionCode": 36,
+  "url": "https://vip.uptv.team/update/uptv16.0.apk",
+  "notes": "Performance, stability and update security improvements.",
+  "sha256": "c242db93ff37e654ee597b85f4362ee058845f1f063edb4a14605c9b814743f0",
+  "sizeBytes": 54139984
 }
