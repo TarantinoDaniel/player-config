@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "url": "https://vip.uptv.team/update/uptv17.0.apk",
-  "notes": "Последнее обновление в 2026 году\n2026 წლის ბოლო განახლება\nFinal update of 2026",
-  "sha256": "09a2e414cd977c937dcfb6583ff5d0662a456dd2036c4227e08dc79081fab4fc",
-  "sizeBytes": 54817794
+  "versionCode": 59,
+  "url": "https://vip.uptv.team/update/uptv18.0-code59.apk",
+  "notes": " გაუმჯობესებულია არხების დაკვრა და გადართვა, გასწორებულია არქივი, განახლებულია პროგრამის გზამკვლევი და კალენდარი.",
+  "sha256": "73e38c472590719095a8233b64bc1f9cf2a7f1f5c5c4b6daaaa681f3875a42ef",
+  "sizeBytes": 54842370
 }
